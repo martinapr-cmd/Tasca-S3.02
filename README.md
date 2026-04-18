@@ -1,8 +1,24 @@
-# Tasca-S3.02
-Patterns
+# Tasca-S3.02 _ Design Patterns
 
-Descripció:
-Els patrons de disseny són solucions a problemes recurrents en la construcció del software. Hi ha multitud de patrons de software catalogat, aprendrem l'aplicació d'alguns dels més importants en PHP.
+> *PHP and Object-Oriented Design Patterns*
 
-Objectius: 
-Aprendre a utilitzar implementacions de patrons de disseny.
+## 🔍Objectives
+
+Learn how to use design pattern implementations. 
+
+## Level 1 
+
+- Exercise 1: Singleton
+
+- Exercise 2: Dependency Injection
+
+## Level 2
+
+- Exercise 3: Adapter
+
+- Exercise 4: Facade
+
+## 🔨Tools
+
+- Visual Studio Code
+- PHP

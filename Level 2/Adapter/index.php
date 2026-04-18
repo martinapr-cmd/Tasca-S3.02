@@ -20,22 +20,3 @@ echo "The Duck says...\n";
 duck_interaction($duck);
 echo "The TurkeyAdapter says...\n";
 duck_interaction($turkey_adapter);
-
-
-/*
-Output:
-
-The Turkey says...
-Gobble gobble
-I'm flying a short distance
-The Duck says...
-Quack
-I'm flying
-The TurkeyAdapter says...
-Gobble gobble
-I'm flying a short distance
-I'm flying a short distance
-I'm flying a short distance
-I'm flying a short distance
-I'm flying a short distance
-*/
